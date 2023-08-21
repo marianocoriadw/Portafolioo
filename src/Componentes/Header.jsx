@@ -30,7 +30,6 @@ function Header() {
                     <li className='hover:text-[#236392] delay-100'><a href="#sobremi">SOBRE MI</a></li>
                     <li className='hover:text-[#236392] delay-100'><a href="#skills">SKILLS</a></li>
                     <li className='hover:text-[#236392] delay-100'><a href="#proyectos">PROYECTOS</a></li>
-                    <li className='hover:text-[#236392] delay-100'><a href="#contacto">CONTACTO</a></li>
                 </ul>
             </nav>
         </div>

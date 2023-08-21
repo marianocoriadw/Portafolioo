@@ -3,6 +3,7 @@ import Header from "./Componentes/Header";
 import Inicio from "./Componentes/Inicio";
 import Datos from "./Componentes/Datos";
 import Skills from "./Componentes/Skills";
+import Proyectos from "./Componentes/Proyectos";
 import { BrowserRouter, Route , Routes  } from "react-router-dom";
 
 
@@ -16,6 +17,7 @@ function App() {
       <Inicio />
       <Datos />
       <Skills />
+      <Proyectos />
     </BrowserRouter>
    
     </>

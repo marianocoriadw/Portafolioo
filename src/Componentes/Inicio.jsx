@@ -15,10 +15,14 @@ function Inicio() {
         </div>
         <div className='flex justify-center gap-1'>
             <div className='p-1 text-5xl text-white '>
+              <a href="https://www.linkedin.com/in/mariano-coria-5b180327a/" target='_blank'>
                 <RiLinkedinBoxFill className='hover:bg-[#236392] hover:text-black border rounded-full p-2' />
+              </a>
             </div>
             <div className='p-1 text-5xl text-white'>
+              <a href="https://github.com/marianocoriadw" target='_blank'>
                 <RiGithubFill className='hover:bg-[#236392] hover:text-black border rounded-full p-2' />
+              </a>
             </div>
         </div>
       </div>

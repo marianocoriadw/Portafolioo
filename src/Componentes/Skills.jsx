@@ -13,7 +13,7 @@ function Skills() {
   return (
     <div id='skills' className='min-h-[100vh] bg-[#1e2326]'>
       <div className='text-center text-5xl text-white p-10'>
-          <h2 className='pt-10'>SKILLS</h2>
+          <h2 className='pt-10'>Skills</h2>
       </div>
       <div className='border-solid border-4 p-5 text-xl text-white text-center rounded-xl border-[#236392] flex flex-wrap gap-2 md:gap-5 justify-center  lg:p-10 w-[90%] lg:w-[70%] mx-auto h-auto' >
           <div className='w-[100px] h-[100px] lg:w-[150px] lg:h-[150px] lg:p-7 m-1 flex flex-col items-center bg-[#252A2E] rounded-xl'>
